@@ -6,6 +6,8 @@ A Model Context Protocol server for generating charts using [AntV](https://githu
   <img width="512" src="https://api.star-history.com/svg?repos=antvis/mcp-server-chart&type=Date" />
 </a>
 
+> **基于原项目**: 此项目基于 [AntV](https://github.com/antvis/) 修改而来
+
 This is a TypeScript-based MCP server that provides chart generation capabilities. It allows you to create various types of charts through MCP tools. You can also use it in [Dify](https://marketplace.dify.ai/plugins/antv/visualization).
 
 ## 📋 Table of Contents
